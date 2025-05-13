@@ -1,0 +1,4 @@
+name = "my-worker"
+main = "worker.js"  # 此处指向实际文件路径
+account_id = "aa8c7da55c060b7c6bbc02c9ec5c1599"
+compatibility_date = "2025-05-13"
